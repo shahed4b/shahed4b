@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shahed4b
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Muhammed
+- 👀 I’m interested in crypto
+- 🌱 I’m currently learning how dao work
+- 💞️ I’m looking to collaborate on web3 projects
+- 📫 How to reach me dm me @mamads96
 
 <!---
 shahed4b/shahed4b is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
